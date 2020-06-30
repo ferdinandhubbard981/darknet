@@ -1,0 +1,5 @@
+classes = 150
+train  = data/minimap/train.txt
+valid  = data/minimap/test.txt
+names = data/minimap/obj.names
+backup = backup/
